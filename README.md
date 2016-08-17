@@ -1,3 +1,3 @@
 # laravel-mongo-boilerplate
-## Install Mongodb PHP Extension
+1. Install Mongodb PHP Extension
 `sudo apt-get install php-mongodb`
