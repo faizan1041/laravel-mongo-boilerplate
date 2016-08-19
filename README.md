@@ -12,4 +12,4 @@ DB_USERNAME=homestead
 DB_PASSWORD=secret
 
 ```
-4. Also make sure to generate the key: `php artisan key:generate`
+Also make sure to generate the key: `php artisan key:generate`
