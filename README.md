@@ -1,5 +1,5 @@
 # laravel-mongo-boilerplate
-1. Install Mongodb PHP Extension `sudo apt-get install php-mongodb`
+1. Install Mongodb PHP Extension `sudo apt-get install php-mongodb` or `sudo apt-get install php5-mongo` if using PHP5
 
 2. Run `composer update`
 
